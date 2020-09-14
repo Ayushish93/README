@@ -8,3 +8,11 @@ This repository contains all the notes taken by
 [Ayushi](https://github.com/Ayushish93/README)
 while studying in 
 [lighthouselab labs](https://www.lighthouselabs.ca/vancouver?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=vancouver)
+
+# Table of Contents
+
+* Week 1
+  * Day 1
+
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
